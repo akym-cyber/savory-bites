@@ -5,63 +5,63 @@ const menuItems = [
     description: "Risotto balls with black truffle, served with marinara",
     price: "$12",
     category: "starters",
-    image: "/images/Arancini.jpeg"
+    image: "./images/Arancini.jpeg"
   },
   {
     name: "Bruschetta Trio",
     description: "Toasted bread with tomato, basil, mozzarella, and mushroom toppings",
     price: "$11",
     category: "starters",
-    image: "/images/Bruschetta.jpeg"
+    image: "./images/Bruschetta.jpeg"
   },
   {
     name: "Calamari Fritti",
     description: "Lightly fried calamari with lemon aioli",
     price: "$14",
     category: "starters",
-    image: "/images/Calamari.jpeg"
+    image: "./images/Calamari.jpeg"
   },
   {
     name: "Herb-Crusted Salmon",
     description: "Atlantic salmon with lemon butter sauce, seasonal vegetables",
     price: "$28",
     category: "mains",
-    image: "/images/Salmon.jpg"
+    image: "./images/Salmon.jpg"
   },
   {
     name: "Filet Mignon",
     description: "8oz grass-fed beef with truffle mashed potatoes",
     price: "$36",
     category: "mains",
-    image: "/images/Filet.jpg"
+    image: "./images/Filet.jpg"
   },
   {
     name: "Wild Mushroom Risotto",
     description: "Arborio rice with seasonal mushrooms and parmesan",
     price: "$22",
     category: "mains",
-    image: "/images/Wild Mushroom Risotto.jpeg"
+    image: "./images/Wild Mushroom Risotto.jpeg"
   },
   {
     name: "Chocolate Soufflé",
     description: "Warm chocolate soufflé with vanilla ice cream",
     price: "$10",
     category: "desserts",
-    image: "/images/Chocolate suffle.jpeg"
+    image: "./images/Chocolate suffle.jpeg"
   },
   {
     name: "Tiramisu",
     description: "Classic Italian dessert with espresso-soaked ladyfingers",
     price: "$9",
     category: "desserts",
-    image: "/images/Tiramisu.jpg"
+    image: "./images/Tiramisu.jpg"
   },
   {
     name: "Berry Panna Cotta",
     description: "Vanilla panna cotta with fresh seasonal berries",
     price: "$8",
     category: "desserts",
-    image: "/images/Panna Cotta.jpeg"
+    image: "./images/Panna Cotta.jpeg"
   }
 ];
 
